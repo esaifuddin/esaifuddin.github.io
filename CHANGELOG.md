@@ -4,6 +4,9 @@ Version scheme: MAJOR.MINOR
 - MAJOR: redesign or a big new section
 - MINOR: content edits, small features, fixes
 
+## v1.3 (16 Oct 2026)
+- Subtle micro-animations added: pulsing "Open to Work" status indicator, smooth scroll reveals, interactive card hover lifts, tactile timeline blooms, and soft WhatsApp pulse
+
 ## v1.2 (16 Oct 2026)
 - Version number shown in the site footer, so you can see which version is live
 
