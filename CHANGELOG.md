@@ -4,6 +4,9 @@ Version scheme: MAJOR.MINOR
 - MAJOR: redesign or a big new section
 - MINOR: content edits, small features, fixes
 
+## v1.4 (26 Oct 2026)
+- Removed "Open to work" / freelance status badges after securing full-time role
+
 ## v1.3 (16 Oct 2026)
 - Subtle micro-animations added: pulsing "Open to Work" status indicator, smooth scroll reveals, interactive card hover lifts, tactile timeline blooms, and soft WhatsApp pulse
 
